@@ -1,0 +1,76 @@
+{
+    "tasks": [
+      {
+        "id": "2023-11-12T10:40:42.942Z",
+        "name": "machine learning  revission",
+        "priority": "High",
+        "due_date": "2023-11-12 16:40:42",
+        "state": "Done Tasks",
+        "duration": 3
+      },
+      {
+        "id": "2023-11-17T08:01:28.483Z",
+        "name": "cunto",
+        "priority": "High",
+        "due_date": "2023-11-17 12:01:28",
+        "state": "Done Tasks",
+        "duration": 1
+      },
+      {
+        "id": "2023-11-17T09:14:53.344Z",
+        "name": "wa",
+        "priority": "High",
+        "due_date": "2023-11-17 13:14:53",
+        "state": "Done Tasks",
+        "duration": 1
+      },
+      {
+        "id": "2023-11-17T13:19:16.575Z",
+        "name": "Test",
+        "priority": "High",
+        "due_date": "2023-11-17 18:19:16",
+        "state": "Remaining Tasks",
+        "duration": 2
+      },
+      {
+        "id": "2023-11-17T13:21:12.033Z",
+        "name": "1",
+        "priority": "High",
+        "due_date": "2023-11-18 04:21:12",
+        "state": "In Progress Tasks",
+        "duration": 12
+      },
+      {
+        "id": "2023-11-17T13:22:00.246Z",
+        "name": "test",
+        "priority": "High",
+        "due_date": "2023-11-17 18:22:00",
+        "state": "Remaining Tasks",
+        "duration": 2
+      },
+      {
+        "id": "2023-11-17T13:23:03.451Z",
+        "name": "Film",
+        "priority": "High",
+        "due_date": "2023-11-17 20:23:03",
+        "state": "In Progress Tasks",
+        "duration": 4
+      },
+      {
+        "id": "2023-11-17T20:37:49.265Z",
+        "name": "time",
+        "priority": "High",
+        "due_date": "2023-11-18 01:37:49",
+        "state": "Remaining Tasks",
+        "duration": 2
+      },
+      {
+        "id": "2023-11-17T20:38:11.786Z",
+        "name": "time",
+        "priority": "High",
+        "due_date": "2023-11-18 00:38:11",
+        "state": "In Progress Tasks",
+        "duration": 1
+      }
+    ]
+  }
